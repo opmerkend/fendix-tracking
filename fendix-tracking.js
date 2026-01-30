@@ -4,6 +4,9 @@
  * ============================================
  */
 
+console.log("Hoi Nick en Gijs!");
+
+
 (function() {
   'use strict';
 
